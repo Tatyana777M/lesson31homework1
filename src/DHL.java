@@ -1,4 +1,4 @@
-abstract class DHL implements MailDeliveryService{
+ public class DHL implements MailDeliveryService{
 
     @Override
     public void sendMail() {
